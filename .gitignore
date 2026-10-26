@@ -8,3 +8,4 @@ node_modules/
 ios/Pods/
 ios/build/
 *.blend1
+*.blend
